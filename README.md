@@ -36,7 +36,7 @@ streamlit-maze-solver-ui/
 ---
 
 ## 🖼 Application Screenshot
-![Application Screenshot]()
+![Application Screenshot](Streamlit-Maze-Solver-UI/screenshot.png)
 
 ---
 
